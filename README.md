@@ -2,10 +2,8 @@
 Node Passport Authentication
 This repo contains code for Local email-passport authentication and Google Authentication.
 
-Blog (Local Auth) : Here
-Blog (Google Auth) : Here
-Tutorial (Local Auth) : Here
-Tutorial (Google Auth) : Here
+
+
 1. USAGE
 Install All Packages
 npm install express ejs mongoose bcryptjs connect-flash cookie-parser express-session csurf memorystore passport passport-local passport-
