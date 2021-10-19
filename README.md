@@ -18,32 +18,8 @@ Image1 Image2 Image3 Image4
 
 Todo ( ✔ -> Done )
 ✔ Add User Password rest ✔ Add Verify Account ✔ Add Email Sending Options ✔ Added Flash messages for errors
-****Node Url Shortener
-node-es6-url-shortener/
-│
-├── api/
-│   ├── ├── routes/
-│   │   ├── index.js
-│   │
-│   ├── models/
-│   │   └── Url.js
-│   │
-│
-├── config/
-│   ├── env/
-│   │   ├── development.js
-│   │   ├── index.js
-│   │   ├── production.js
-│   │   └── test.js
-│   │
-│   
-│   
-│
-├── view/
-│   
-│   │   └── shorten.js
-│   │
-│   └── index.html
+
+
 Node.js & MongoDB | url shortener
 Installation:
 
@@ -52,6 +28,6 @@ Install: mongoDB.
 Run: npm install (root folder)
 Run: node server.js
 Go: http://localhost:8000/
-Api: http://localhost:8080/api/short?url=<your_url>
+Api: http://localhost:8000/short?url=<your_url>
 Enjoy!
 
